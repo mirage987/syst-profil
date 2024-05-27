@@ -11,8 +11,19 @@
   <script src="/public/js/profile.js" defer></script>
 </head>
 <body>
-  <span>
-    profile
-  </span>
+  <header>
+    <nav>
+      <ul>
+        <li>Profil</li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <div class="profil-container">
+      <div>
+        
+      </div>
+    </div>
+  </main>
 </body>
 </html>
